@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour {
 
@@ -19,8 +20,8 @@ public class GameController : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider collider)  {
-		if (Collider.tag == "Neprijatelj") {
-			SceneManager.LoadScene (SceneManager.GetActiveScene ().name);
+		if (collider.tag == "Neprijatelj") {
+			SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 		}
 	}
 		
@@ -39,7 +40,7 @@ public class GameController : MonoBehaviour {
 				gameCamera.transform.position.z + Mathf.Sin(randomAngle) * NeprijateljSpawningDistance);
 
 			Neprijatelj neprijatelj = enemyObject.GetComponent<Neprijatelj>();
-			neprijatelj.direction = (gameCamera.transform.ImagePosition - neprijatelj.transform.position).normalized;
+			neprijatelj.direction = (gameCamera.transform.position - neprijatelj.transform.position).normalized;
 			neprijatelj.transform.LookAt(Vector3.zero);
 		}
 

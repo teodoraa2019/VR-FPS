@@ -1,0 +1,1661 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.21.14.3190
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vodop\Desktop\git - projekti\VR-FPS\VR-FPS\VR-FPS\VR-FPS_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.136300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationPause (Boolean pause) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1af4 -> priority: 1 
+  Thread -> id: 2058 -> priority: 1 
+  Thread -> id: 2294 -> priority: 1 
+  Thread -> id: 2b70 -> priority: 1 
+UnloadTime: 1.806100 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.625400 ms (FindLiveObjects: 0.040600 ms CreateObjectMapping: 0.034400 ms MarkObjects: 0.177400 ms  DeleteObjects: 0.371900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.049600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.957600 ms (FindLiveObjects: 0.055400 ms CreateObjectMapping: 0.055000 ms MarkObjects: 0.208500 ms  DeleteObjects: 0.637200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.870500 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.633100 ms (FindLiveObjects: 0.043900 ms CreateObjectMapping: 0.045800 ms MarkObjects: 0.145300 ms  DeleteObjects: 0.394100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.578000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.690500 ms (FindLiveObjects: 0.040400 ms CreateObjectMapping: 0.040100 ms MarkObjects: 0.156500 ms  DeleteObjects: 0.451800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.273700 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.718800 ms (FindLiveObjects: 0.054900 ms CreateObjectMapping: 0.055400 ms MarkObjects: 0.147300 ms  DeleteObjects: 0.459800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.876600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.686800 ms (FindLiveObjects: 0.039500 ms CreateObjectMapping: 0.040100 ms MarkObjects: 0.155400 ms  DeleteObjects: 0.450200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.862000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.705600 ms (FindLiveObjects: 0.036600 ms CreateObjectMapping: 0.036700 ms MarkObjects: 0.147400 ms  DeleteObjects: 0.483700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.903100 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.684200 ms (FindLiveObjects: 0.038400 ms CreateObjectMapping: 0.036500 ms MarkObjects: 0.146700 ms  DeleteObjects: 0.461600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.481000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.678400 ms (FindLiveObjects: 0.035600 ms CreateObjectMapping: 0.050900 ms MarkObjects: 0.143800 ms  DeleteObjects: 0.446900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.007600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.645200 ms (FindLiveObjects: 0.036500 ms CreateObjectMapping: 0.036600 ms MarkObjects: 0.146200 ms  DeleteObjects: 0.425000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.294000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.701700 ms (FindLiveObjects: 0.040300 ms CreateObjectMapping: 0.037700 ms MarkObjects: 0.156800 ms  DeleteObjects: 0.465800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.044600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.625300 ms (FindLiveObjects: 0.048300 ms CreateObjectMapping: 0.045900 ms MarkObjects: 0.147300 ms  DeleteObjects: 0.382500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.843600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.687600 ms (FindLiveObjects: 0.039700 ms CreateObjectMapping: 0.044300 ms MarkObjects: 0.145200 ms  DeleteObjects: 0.457300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.813000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.691700 ms (FindLiveObjects: 0.037600 ms CreateObjectMapping: 0.036700 ms MarkObjects: 0.153600 ms  DeleteObjects: 0.462900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.955600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.708900 ms (FindLiveObjects: 0.037800 ms CreateObjectMapping: 0.036900 ms MarkObjects: 0.163500 ms  DeleteObjects: 0.469500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.947900 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.713800 ms (FindLiveObjects: 0.054500 ms CreateObjectMapping: 0.049800 ms MarkObjects: 0.151100 ms  DeleteObjects: 0.456700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.834200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.688300 ms (FindLiveObjects: 0.036100 ms CreateObjectMapping: 0.037700 ms MarkObjects: 0.144300 ms  DeleteObjects: 0.469100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.891800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.720400 ms (FindLiveObjects: 0.042600 ms CreateObjectMapping: 0.037800 ms MarkObjects: 0.150400 ms  DeleteObjects: 0.488600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.873300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.683300 ms (FindLiveObjects: 0.036100 ms CreateObjectMapping: 0.036400 ms MarkObjects: 0.146900 ms  DeleteObjects: 0.462800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.137600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.651700 ms (FindLiveObjects: 0.034700 ms CreateObjectMapping: 0.036400 ms MarkObjects: 0.147300 ms  DeleteObjects: 0.432200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.822100 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.762400 ms (FindLiveObjects: 0.039700 ms CreateObjectMapping: 0.036600 ms MarkObjects: 0.151400 ms  DeleteObjects: 0.533300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.841700 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.711700 ms (FindLiveObjects: 0.039800 ms CreateObjectMapping: 0.039700 ms MarkObjects: 0.165200 ms  DeleteObjects: 0.465800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.798100 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.743000 ms (FindLiveObjects: 0.049600 ms CreateObjectMapping: 0.040800 ms MarkObjects: 0.158500 ms  DeleteObjects: 0.492700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.744700 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.824200 ms (FindLiveObjects: 0.041000 ms CreateObjectMapping: 0.040600 ms MarkObjects: 0.162900 ms  DeleteObjects: 0.578600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.828200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.673100 ms (FindLiveObjects: 0.038500 ms CreateObjectMapping: 0.036900 ms MarkObjects: 0.141400 ms  DeleteObjects: 0.451400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.005200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.699300 ms (FindLiveObjects: 0.037200 ms CreateObjectMapping: 0.036800 ms MarkObjects: 0.145700 ms  DeleteObjects: 0.478400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.026400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.778100 ms (FindLiveObjects: 0.040700 ms CreateObjectMapping: 0.040900 ms MarkObjects: 0.165600 ms  DeleteObjects: 0.529700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.267300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.668900 ms (FindLiveObjects: 0.033200 ms CreateObjectMapping: 0.037200 ms MarkObjects: 0.142200 ms  DeleteObjects: 0.455300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.907200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.700800 ms (FindLiveObjects: 0.038900 ms CreateObjectMapping: 0.036800 ms MarkObjects: 0.152000 ms  DeleteObjects: 0.471600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.183800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.666300 ms (FindLiveObjects: 0.035600 ms CreateObjectMapping: 0.036900 ms MarkObjects: 0.153100 ms  DeleteObjects: 0.439500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.895200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.750100 ms (FindLiveObjects: 0.040600 ms CreateObjectMapping: 0.039900 ms MarkObjects: 0.162400 ms  DeleteObjects: 0.505900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.292000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.687600 ms (FindLiveObjects: 0.033900 ms CreateObjectMapping: 0.039300 ms MarkObjects: 0.149400 ms  DeleteObjects: 0.463800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.044300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.723000 ms (FindLiveObjects: 0.036100 ms CreateObjectMapping: 0.039100 ms MarkObjects: 0.149100 ms  DeleteObjects: 0.497600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.015600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.658700 ms (FindLiveObjects: 0.040500 ms CreateObjectMapping: 0.038400 ms MarkObjects: 0.153000 ms  DeleteObjects: 0.425400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.432400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.612600 ms (FindLiveObjects: 0.032500 ms CreateObjectMapping: 0.031700 ms MarkObjects: 0.133900 ms  DeleteObjects: 0.413600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.024400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.717300 ms (FindLiveObjects: 0.040100 ms CreateObjectMapping: 0.040000 ms MarkObjects: 0.165900 ms  DeleteObjects: 0.470000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.218700 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.764000 ms (FindLiveObjects: 0.035700 ms CreateObjectMapping: 0.042900 ms MarkObjects: 0.152100 ms  DeleteObjects: 0.532400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.363600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.686000 ms (FindLiveObjects: 0.035200 ms CreateObjectMapping: 0.039400 ms MarkObjects: 0.148700 ms  DeleteObjects: 0.461400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.241300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.850400 ms (FindLiveObjects: 0.060100 ms CreateObjectMapping: 0.062600 ms MarkObjects: 0.194300 ms  DeleteObjects: 0.532000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.214200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.729400 ms (FindLiveObjects: 0.038900 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.154700 ms  DeleteObjects: 0.491300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.398300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.747800 ms (FindLiveObjects: 0.042400 ms CreateObjectMapping: 0.062200 ms MarkObjects: 0.158000 ms  DeleteObjects: 0.484100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.387800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.780200 ms (FindLiveObjects: 0.039200 ms CreateObjectMapping: 0.043300 ms MarkObjects: 0.170200 ms  DeleteObjects: 0.526400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.209400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.793000 ms (FindLiveObjects: 0.045600 ms CreateObjectMapping: 0.043500 ms MarkObjects: 0.166200 ms  DeleteObjects: 0.536400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.517000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.743900 ms (FindLiveObjects: 0.037100 ms CreateObjectMapping: 0.043000 ms MarkObjects: 0.162000 ms  DeleteObjects: 0.500600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.493100 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.796600 ms (FindLiveObjects: 0.038600 ms CreateObjectMapping: 0.043300 ms MarkObjects: 0.163300 ms  DeleteObjects: 0.550200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.490700 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.777700 ms (FindLiveObjects: 0.039000 ms CreateObjectMapping: 0.042900 ms MarkObjects: 0.165800 ms  DeleteObjects: 0.528700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.332100 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.817900 ms (FindLiveObjects: 0.042200 ms CreateObjectMapping: 0.044000 ms MarkObjects: 0.173000 ms  DeleteObjects: 0.557500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.495200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.809600 ms (FindLiveObjects: 0.040600 ms CreateObjectMapping: 0.043400 ms MarkObjects: 0.188400 ms  DeleteObjects: 0.536100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.428900 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.782200 ms (FindLiveObjects: 0.037800 ms CreateObjectMapping: 0.043700 ms MarkObjects: 0.160800 ms  DeleteObjects: 0.538200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.521000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.843500 ms (FindLiveObjects: 0.039300 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.167400 ms  DeleteObjects: 0.592500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.312600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.833300 ms (FindLiveObjects: 0.042600 ms CreateObjectMapping: 0.043500 ms MarkObjects: 0.171300 ms  DeleteObjects: 0.574600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.602800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.739000 ms (FindLiveObjects: 0.038900 ms CreateObjectMapping: 0.043300 ms MarkObjects: 0.161700 ms  DeleteObjects: 0.494000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.515000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.812700 ms (FindLiveObjects: 0.036200 ms CreateObjectMapping: 0.043400 ms MarkObjects: 0.161500 ms  DeleteObjects: 0.570500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.282400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.758100 ms (FindLiveObjects: 0.043800 ms CreateObjectMapping: 0.044000 ms MarkObjects: 0.154800 ms  DeleteObjects: 0.514300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.415100 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 1.049400 ms (FindLiveObjects: 0.058000 ms CreateObjectMapping: 0.069600 ms MarkObjects: 0.215400 ms  DeleteObjects: 0.705000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.576800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.782100 ms (FindLiveObjects: 0.049100 ms CreateObjectMapping: 0.055700 ms MarkObjects: 0.159000 ms  DeleteObjects: 0.517100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.471000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.887600 ms (FindLiveObjects: 0.037500 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.164600 ms  DeleteObjects: 0.641300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.652000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.770400 ms (FindLiveObjects: 0.036900 ms CreateObjectMapping: 0.043000 ms MarkObjects: 0.159600 ms  DeleteObjects: 0.529900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.228600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 1.067400 ms (FindLiveObjects: 0.062500 ms CreateObjectMapping: 0.069700 ms MarkObjects: 0.220300 ms  DeleteObjects: 0.713300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.466800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.788500 ms (FindLiveObjects: 0.037700 ms CreateObjectMapping: 0.042200 ms MarkObjects: 0.167400 ms  DeleteObjects: 0.540200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.454200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.779900 ms (FindLiveObjects: 0.037100 ms CreateObjectMapping: 0.042900 ms MarkObjects: 0.161400 ms  DeleteObjects: 0.537300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.583900 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.786600 ms (FindLiveObjects: 0.044500 ms CreateObjectMapping: 0.043500 ms MarkObjects: 0.167100 ms  DeleteObjects: 0.530200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.659300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.833800 ms (FindLiveObjects: 0.053700 ms CreateObjectMapping: 0.065600 ms MarkObjects: 0.168800 ms  DeleteObjects: 0.544500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.492400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.812200 ms (FindLiveObjects: 0.036600 ms CreateObjectMapping: 0.043600 ms MarkObjects: 0.168400 ms  DeleteObjects: 0.562400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.438900 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.791000 ms (FindLiveObjects: 0.036700 ms CreateObjectMapping: 0.042900 ms MarkObjects: 0.164900 ms  DeleteObjects: 0.545300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.373600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.676500 ms (FindLiveObjects: 0.052000 ms CreateObjectMapping: 0.043900 ms MarkObjects: 0.172100 ms  DeleteObjects: 0.407100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.457800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.760800 ms (FindLiveObjects: 0.056800 ms CreateObjectMapping: 0.062300 ms MarkObjects: 0.196600 ms  DeleteObjects: 0.443800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.514000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.639000 ms (FindLiveObjects: 0.037400 ms CreateObjectMapping: 0.042800 ms MarkObjects: 0.166300 ms  DeleteObjects: 0.391400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.451700 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.670800 ms (FindLiveObjects: 0.040800 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.171500 ms  DeleteObjects: 0.413900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.300400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.672300 ms (FindLiveObjects: 0.038800 ms CreateObjectMapping: 0.043500 ms MarkObjects: 0.166100 ms  DeleteObjects: 0.422800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.465200 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.671300 ms (FindLiveObjects: 0.036500 ms CreateObjectMapping: 0.042900 ms MarkObjects: 0.159300 ms  DeleteObjects: 0.431500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.665600 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.968100 ms (FindLiveObjects: 0.058500 ms CreateObjectMapping: 0.065200 ms MarkObjects: 0.213200 ms  DeleteObjects: 0.629800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.417800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.668700 ms (FindLiveObjects: 0.037600 ms CreateObjectMapping: 0.043000 ms MarkObjects: 0.162200 ms  DeleteObjects: 0.424800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.496700 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.640400 ms (FindLiveObjects: 0.037300 ms CreateObjectMapping: 0.042600 ms MarkObjects: 0.159000 ms  DeleteObjects: 0.400400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.518000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.672300 ms (FindLiveObjects: 0.047600 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.159500 ms  DeleteObjects: 0.420700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.520300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.660700 ms (FindLiveObjects: 0.040500 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.166000 ms  DeleteObjects: 0.409800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.493900 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.839800 ms (FindLiveObjects: 0.057400 ms CreateObjectMapping: 0.065500 ms MarkObjects: 0.230700 ms  DeleteObjects: 0.484900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.591500 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.653100 ms (FindLiveObjects: 0.041100 ms CreateObjectMapping: 0.043700 ms MarkObjects: 0.169200 ms  DeleteObjects: 0.398000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.328000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.682900 ms (FindLiveObjects: 0.042800 ms CreateObjectMapping: 0.043300 ms MarkObjects: 0.175500 ms  DeleteObjects: 0.419700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.348500 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.606800 ms (FindLiveObjects: 0.038300 ms CreateObjectMapping: 0.039900 ms MarkObjects: 0.156200 ms  DeleteObjects: 0.371300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.108900 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.614000 ms (FindLiveObjects: 0.037900 ms CreateObjectMapping: 0.039700 ms MarkObjects: 0.156700 ms  DeleteObjects: 0.378600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.307300 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.636100 ms (FindLiveObjects: 0.043900 ms CreateObjectMapping: 0.042800 ms MarkObjects: 0.168200 ms  DeleteObjects: 0.380200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.317400 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.657200 ms (FindLiveObjects: 0.038400 ms CreateObjectMapping: 0.046800 ms MarkObjects: 0.166600 ms  DeleteObjects: 0.404200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.441800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.618300 ms (FindLiveObjects: 0.036400 ms CreateObjectMapping: 0.047300 ms MarkObjects: 0.164100 ms  DeleteObjects: 0.369400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.351900 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.646000 ms (FindLiveObjects: 0.039300 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.172100 ms  DeleteObjects: 0.390100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.427800 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.653200 ms (FindLiveObjects: 0.049400 ms CreateObjectMapping: 0.054300 ms MarkObjects: 0.166300 ms  DeleteObjects: 0.382100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.354000 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.666800 ms (FindLiveObjects: 0.039400 ms CreateObjectMapping: 0.043100 ms MarkObjects: 0.160600 ms  DeleteObjects: 0.422400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.030500 ms
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.699300 ms (FindLiveObjects: 0.042800 ms CreateObjectMapping: 0.043200 ms MarkObjects: 0.174700 ms  DeleteObjects: 0.437200 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationPause (Boolean pause) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationPause (Boolean pause) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationQuit () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
